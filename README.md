@@ -1,6 +1,6 @@
 # dotmd
 ## markdown previewer
-### aaronrbetts.github.io/dotmd
+> https://aaronrbetts.github.io/dotmd
 
 ### Local Installation
 ` npm install
